@@ -1,0 +1,23 @@
+Do while is not supported in Python
+___________________
+Unconditional (2)
+continue and break-terminate
+___________________
+Datastructures(2)
+built in-lists[], Tuples(), Sets{}, Dictionary{}passing key and values
+                   * Lists are mutable, mixed values
+                   * tuples-Sequence of collection of ordered mixed data, These are Immutable. ie we cannot add or change them
+                   * Dictioaries-  unordered collection of items in which each item consists of a key and values, 
+                   * redundant- duplicate
+                   * Sets -Unordered collection of data that stored in unorderd way
+
+User defined- trees ,graphs, Stack,Queues ,lists,Hashmaps,
+_____________________________________________________________________________
+
+OOPs concept in Python
+    
+object_oriented_python_tut
+
+high level-c,cpp,etc
+assembly                                           
+low language
